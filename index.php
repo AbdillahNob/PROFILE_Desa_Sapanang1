@@ -4,43 +4,22 @@
 require 'header.php';
 require 'function/function.php';
 
-// Untuk cek session
-// if (session_status() === PHP_SESSION_ACTIVE)
-//         session_destroy();
-
-
-// // session_destroy();
-// // var_dump(session_destroy());
-
-// 
 ?>
 
-
 <!-- Start Intro -->
-<section class="parallax-bg" style="background-image:url(img/sapanang/bg.JPG)" data-stellar-background-ratio="0.5">
+<section class="parallax-bg" style="background-image:url(img/sapanang/bg.jpg)" data-stellar-background-ratio="0.5">
     <!-- Section Title -->
     <div class="js-height-full container">
         <div class="intro-content black-color text-center vertical-section">
             <div class="vertical-content">
                 <h4 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.8s">Selamat Datang di</h4>
                 <h1 class="wow zoomIn m-bottom-20" data-wow-duration="1s" data-wow-delay="0.6s">Desa Sapanang</h1>
-                <!-- <a href="" class="btn btn-main btn-theme wow fadeInUp" data-wow-delay="0.8s">Jumlah Penduduk :Jiwa</a>
-                <a href="" class="btn btn-main btn-theme wow fadeInUp" data-wow-delay="0.8s">Jumlah Kepala Keluarga :</a> -->
-                <a href="tentang_desa.php" class="btn btn-main btn-theme wow fadeInUp" data-wow-delay="0.8s">Selangkapnya</a>
-                <!-- <div class="vertical-content">
-                    <video controls width="400">
-                        <source src="img/sapanang/Profile_desa/One Piece - Luffy vs Doflamingo - AMV (Centuries) 2.mp4" type="video/mp4">
-                    </video>
-                </div> -->
-            </div>
 
+                <a href="tentang_desa.php" class="btn btn-main btn-theme wow fadeInUp" data-wow-delay="0.8s">Selangkapnya</a>
+    
+            </div>
         </div>
-        <!-- Scroll Down -->
-        <!-- <div class="scroll-next">
-                <a data-scroll href="#services" class="scroll-down"><i
-                        class="fa fa-angle-down scroll-down-icon"></i></a>
-            </div> -->
-        <!-- End Scroll Down -->
+
     </div>
 </section>
 <!-- End Intro -->

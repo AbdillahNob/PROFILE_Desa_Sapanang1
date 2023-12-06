@@ -8,14 +8,14 @@ $query = view("SELECT * FROM tb_profil WHERE id_profil = 1");
 
 
 <!-- Start Intro -->
-<section class="parallax-bg" style="background-image:url(img/sapanang/bg.JPG)" data-stellar-background-ratio="0.5">
+<section class="parallax-bg" style="background-image:url(img/sapanang/bg.jpg)" data-stellar-background-ratio="0.5">
     <!-- Section Title -->
     <div class="js-height-full container">
         <div class="intro-content black-color text-center vertical-section">
             <div class="vertical-content">
                 <!-- <h4 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.8s">Selamat Datang di</h4> -->
                 <h1 class="wow zoomIn m-bottom-20" data-wow-duration="1s" data-wow-delay="0.6s">Desa Sapanang</h1>
-                <video controls width="400">
+                <video controls width="300">
                     <source src="img/sapanang/Profile_desa/video profil desa sapanang_1.mp4" type="video/mp4">
                 </video>
             </div>
