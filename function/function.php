@@ -3,7 +3,7 @@
 
 use LDAP\Result;
 
-$conn = mysqli_connect("localhost", "root", "", "desa_sapanang");
+$conn = mysqli_connect("localhost", "u280662939_desa_sapanang", "LuKMAn09", "u280662939_desa_sapanang");
 
 
 // function untuk tiap query SELECT

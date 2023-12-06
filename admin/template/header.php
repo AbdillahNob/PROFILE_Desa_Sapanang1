@@ -13,7 +13,7 @@ if (!isset($_SESSION['hal'])) {
 
 // tdk bisa di hubungkan ke function karena directory nya tdk di temukan.
 $id_login = $_SESSION['level'];
-$conn = mysqli_connect("localhost", "root", "", "desa_sapanang");
+$conn = mysqli_connect("localhost", "u280662939_desa_sapanang", "LuKMAn09", "u280662939_desa_sapanang");
 $result = mysqli_query($conn, "SELECT * FROM tb_login WHERE id_login = $id_login");
 $rows = mysqli_fetch_assoc($result);
 ?>

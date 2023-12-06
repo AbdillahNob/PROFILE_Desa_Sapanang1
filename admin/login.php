@@ -185,7 +185,7 @@ if (isset($_POST['submit'])) {
       -->
 </head>
 
-<body class="login-page" style="background-image:url(../img/sapanang/bg.JPG)" >
+<body class="login-page" style="background-image:url(../img/sapanang/bg.jpg)" >
   <div class="login-box">
     <div class="login-logo text-uppercase">
       <b>Admin</b>| Desa Sapanang
