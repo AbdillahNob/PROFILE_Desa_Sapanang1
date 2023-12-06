@@ -1,0 +1,14 @@
+Beranda(foto wisata & produk)
+1200 x 900
+
+Beranda(foto informasi)
+1920 x 1080
+
+Wisata(foto wisata)
+807 x 312
+
+wisata(foto setiap penjelasan wisata dan hewan)
+807 x 312
+
+informasi(foto informasi)
+1920 x 1080

@@ -1,0 +1,44 @@
+1. Validasi utk tdk menerima username yg sama ( COMPLETE )✅
+2. fungsi utk enkripsi password usernya di EDIT dan TAMBAH( COMPLETE )✅
+3. validasi utk Tdk menerima Ekstensi foto selain jpg, jpeg dan png di function upload ( COMPLETE ).✅
+4. fungsi utk mengacak nama foto yg di input user biar tdk ad yg sama uniqid(); di function upload ( COMPLETE ).✅
+4. fungsi agar tanda / di baca string dan membuat smua huruf username jdi huruf kecil strlower(); di function.php ( COMPLETE )✅
+5. fungsi utk membuat tanda '/petik bs dibaca string di PASSWORD. ( COMPLETE )✅
+
+6. tambah fitur pengarsipan Surat ( Surat masuk dan Surat keluar ). COMPLETE✅
+7. tambah fitur struktur ( COMPLETE )✅
+8. tambah fitur kelola data penduduk ( COMPLETE )✅
+9. tambah fitur cari data penduduk ( COMPLETE )✅
+10. Validasi di function upload utk tdk mengerjakan fitur penduduk ( COMPLETE )✅
+11. Buat Validasi di function.php agar NIK harus di isi 16 digit ( COMPLETE )✅
+12. CRUD utk fitur k_penduduk.php ( COMPLETE )✅
+13. validasi di function update jika foto yg baru di Inpur user tdk memenuhi kriteria ( COMPLETE )✅
+14. Validasi di header admin, apakah user/admin yg masuk bsrta foto akunnya (set session['level'] == $id_login. dri file login) COMPLETE✅.
+
+15. session ['halaman'] di login, admin dan tampilan/hal pengunjung ( COMPLETE )✅.
+16. cookie ['halaman'] di login dan hal.Admin serta enkripsi username yg msk di Cookie ( COMPLETE )✅.
+17. searching with Pagination in cari_penduduk.php dan tambah clean_search.php ( COMPLETE )✅.
+18. Menu Dropdown pada halaman utama di fitur Tentang Desa ( - Responsive )
+19. Tambahkan Fitur Informasi pendidikan dan Responsive ✅
+20. Pagination pada halaman utama Informasi,Pendidikan dan produk ( COMPLETE ) ✅
+21. Tambahkan Keterangan jumlah penduduk dan jumlah kepala keluarga di halaman utama ( Complete ) ✅
+22. Validasi agar data yg type Radio Box harus di ISI ( Complete )✅
+23. Perbaiki pemanggilan foto dan data serta tambhkn fungsi TAMBAH,HAPUS di fitur Profil desa ( Complete )✅ 
+24. Tambahkan Video Profile desa di halaman utama TENTANG DESA/Selengkapnya ( Complete )✅
+25. tampilan foto profile desa yg brjmlh lbh dri 1 di halaman utama beranda dan tentang desa ( Complete )✅
+26. Tambahkan Pagination di fitur User,Profile,Struktur,Persuratan,KelolaP,Produk,Pendidikan dan Informasi ( Complete )✅
+27. Validasi daftar akun Password dgn Konfirmasi-Password ( COMPLETE )✅
+28. Tambahkan SweetAlert pada Login,edit,dan tambah pada sebuah fitur di halaman ADMIN ( COMPLETE )✅
+29. Tambahkan SweetAlert pada Hapus dan LogOut dan Alert Confirm Hapus utk semua fitur di halaman ADMIN ( COMPLETE )✅
+30. Validasi Registrasi dan tambah user agr hnya Apart Desa yg bs Create akun dan tdk bs EDIT username Profil utk menghindari perubahan username selain dri jabatn apart desa ( COMPLETE )✅
+31. Validasi Tombol Hapus di User=Admin dan Sejarah=id 1 ( COMPLETE )✅
+32. Validasi apabila ingin edit/update Password, hrs terlebih dahalu masukkan password sblmnya dgn benar! ( COMPLETE )✅
+33. Validasi agr nik tdk boleh > 1 di fitur tambah_penduduk ( COMPLETE )✅
+34. Fungsi REQUIRED pd semua fitur edit utk mnghindari apabila inputan di kosongkan oleh user ( COMPLETE ) ✅
+35. Video Profile Desa ( COMPLETE )✅
+36. Responsive utk menu dropdown di tentang desa pada halaman UTAMA.
+
+34. Validasi keterangan NOT FOUND pd saat cari data Penduduk yg tdk ada.
+35. Validasi bila berada di halaman 2 dan strsnya trus di hal tersebut kita lnsng search data dan data yg di search cmn berjumlah sdkt dan hanya tampil di hal 1 dll, maka halaman aktif skrng lngsng pindah ke halaman 1 dll. 
+36. Tdk RESPONSIVE Header admin.
+
