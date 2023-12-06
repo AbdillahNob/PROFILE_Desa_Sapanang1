@@ -16,7 +16,7 @@ $query = view("SELECT * FROM tb_profil WHERE id_profil = 1");
                 <!-- <h4 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.8s">Selamat Datang di</h4> -->
                 <h1 class="wow zoomIn m-bottom-20" data-wow-duration="1s" data-wow-delay="0.6s">Desa Sapanang</h1>
                 <video controls width="400">
-                    <source src="img/sapanang/Profile_desa/One Piece - Luffy vs Doflamingo - AMV (Centuries) 2.mp4" type="video/mp4">
+                    <source src="img/sapanang/Profile_desa/video profil desa sapanang_1.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
