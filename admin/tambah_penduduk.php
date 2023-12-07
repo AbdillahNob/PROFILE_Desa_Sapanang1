@@ -198,6 +198,9 @@ if (isset($_POST['submit'])) {
 
                 <input type="radio" id="O" name="darah" value="O">
                 <label for="O">O </label>
+
+                <input type="radio" id="-" name="darah" value="-">
+                <label for="-">-</label>
               </div>
               <!-- dusun -->
               <div class="form-group">
