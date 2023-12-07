@@ -197,7 +197,7 @@ if (isset($_POST['submit'])) {
                 <label for="AB">AB </label>
 
                 <input type="radio" id="O" name="darah" value="O">
-                <label for="O">O </label>
+                <label for="O">O </label><br><br>
 
                 <input type="radio" id="-" name="darah" value="-">
                 <label for="-">-</label>
